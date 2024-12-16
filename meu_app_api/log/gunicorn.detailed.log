@@ -1,0 +1,2 @@
+[2024-12-15 18:25:54,692] INFO _log() L225  127.0.0.1 - - [15/Dec/2024 18:25:54] "GET /produtos HTTP/1.1" 200 - - call_trace=/mnt/c/Users/User/Downloads/aula-3/meu_app_api/venv_api/lib/python3.12/site-packages/werkzeug/_internal.py L225 
+[2024-12-15 18:27:09,295] INFO _log() L225  127.0.0.1 - - [15/Dec/2024 18:27:09] "GET /produtos HTTP/1.1" 200 - - call_trace=/mnt/c/Users/User/Downloads/aula-3/meu_app_api/venv_api/lib/python3.12/site-packages/werkzeug/_internal.py L225  
